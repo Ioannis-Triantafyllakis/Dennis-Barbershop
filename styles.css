@@ -85,6 +85,7 @@ a {
     overflow: hidden;
     background-color: gray;
     border-radius: 8px;
+    margin-top: 1px;
 }
 
 .image-container img {
@@ -100,7 +101,7 @@ a {
 .footer-container {
     width: 30%;
     text-align: center;
-    margin-top: 80px;
+    margin-top: 65px;
     font-size: 15px;
 }
 
